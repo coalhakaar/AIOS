@@ -11,4 +11,4 @@ You can compile AIOS's Office XML files quite easily using Git.
 git clone https://github.com/coalhakaar/AIOS.git
 ```
 
-After that, just compress the file and change the file extension to .pptx
+After that, just compress the files and change the file extension to .pptx
